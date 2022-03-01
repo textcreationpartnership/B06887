@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery, to the praise of God, and joy of all true hearted Protestants, of a late intended plot by the papists to subdue the Protestants. Being a true copy of a discourse betweene William O Conner a priest, and Anne Hussey an Irish gentlewoman: as it was brought and confirmed by oath in the Parliament House.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06887</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.40.m.9.[41]</idno>
+            <idno type="EEBO-CITATION">99885261</idno>
+            <idno type="PROQUEST">ocm99885261</idno>
+            <idno type="VID">182196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182196)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:2[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery, to the praise of God, and joy of all true hearted Protestants, of a late intended plot by the papists to subdue the Protestants. Being a true copy of a discourse betweene William O Conner a priest, and Anne Hussey an Irish gentlewoman: as it was brought and confirmed by oath in the Parliament House.</title>
+                  <author>Hussey, Anne.</author>
+                  <author>O'Conner, William.</author>
+               </titleStmt>
+               <extent>[1]+ leaves.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed anno, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cf. Wing O129, which has "prayse" instead of "praise" in title.</note>
+                  <note>Imperfect: t.p. only.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  England --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="fragment">
+            <pb facs="tcp:182196:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>A DISCOVERY, To the praiſe of God, and joy of all true hearted <hi>Proteſtants,</hi> of a late intended plot by the <hi>Papiſts</hi> to ſubdue the <hi>Proteſtants.</hi>
+            </head>
+            <head type="sub">Being a true Copy of a diſcourſe betweene <hi>William O Conner</hi> a Prieſt, and <hi>Anne Huſſey</hi> an Iriſh Gen<g ref="char:EOLhyphen"/>tlewoman: as it was brought and confirmed by oath in the Par<g ref="char:EOLhyphen"/>liament Houſe.</head>
+            <p>
+               <figure/>
+            </p>
+            <p>Printed <hi>Anno,</hi> 1641.</p>
+            <div type="text">
+               <head>
+                  <hi>A True Coppy of a Letter written from a man in</hi> Ireland, <hi>to his friend in</hi> England</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Could not omit to write unto you, to give you to underſtand of a miraculous deliverance, which the Lord in mercy hath vouchſafed unto the poore Proteſtants in this Kingdome, which you may perceive by the Proclamation encloſed; for I have not time to relate the whole ſtory, or bloudy Tragedy, which was untended againſt us: The execution ſhould have bin on the Satur<g ref="char:EOLhyphen"/>day, which was diſcovered on Friday night, by a man of Sir <hi>Iohn Glatworthy,</hi> an <hi>Iriſh</hi> Knight, but one of your Houſe of Com<g ref="char:EOLhyphen"/>mons, and this day being the Sabboth, hath bin the troubleſomeſt day that ever I ſaw in all my daies, mixt with joy and ſorrow; joy for our our gracious deliverance, and much perplexed by feares of our approaching enemies, expecting every houre when the City ſhould be ſurprized, that for my part and many others, haue had but little reſt day and night for theſe two dayes, but how many more it is onely knowne to God; the Enemy hath in the North parts of this Kingdome, taken two Lords Caſtles, and two Townes, one of them of great ſtrength and much munition in it, and as it is verily beleeved, they doe ſtill encreaſe in great multitudes: here is taken a Lord, and divers others of note, and others the number of forty, which are ſafe in Priſon, and hope of many more: the Lord is called the Lord <hi>Maguere,</hi> and the Pa<g ref="char:EOLhyphen"/>piſts make it a Religious Warre which they had no cauſe to doe, for they have had a long time as much liberty as wee have had if not more; but their father the Divell hath ſet them upon this damnable act I hope to their utter ruine in this Kingdome, if the Lord in mercy open our Kings eyes, and your Parliaments hearts to take pitty upon us, for no hope of Reformation is to bee had here, for they are ten for one of us through this Kingdome a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is verily beleeved. I have bin ſo employed Day and Night theſe two daies, that I can hardly write thus much unto you, but deſire your prayers and all good people for us, and when more is diſco<g ref="char:EOLhyphen"/>vered, if the Lord preſerve me with life, you ſhall heare farther from me, in the meane time pray for us all.</p>
+            </div>
+            <closer>
+               <signed>Your loving friend <hi>W. B.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:182196:1"/>
+            <!-- PDF PAGE 13 -->
+         </div>
+      </body>
+   </text>
+</TEI>
